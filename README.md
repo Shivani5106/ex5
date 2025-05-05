@@ -35,7 +35,6 @@ Publish the website in the given URL.
 ## PROGRAM :
 math.html
 ```
-
 <html>
 <head>
 <meta charset='utf-8'>
